@@ -7,7 +7,6 @@ import "react-lazy-load-image-component/src/effects/blur.css";
 import ListIcon from "../../assets/list.png";
 import gridIcon from "../../assets/grid.png";
 import Loader from "../../assets/loader.gif";
-
 import "./App.css";
 import Modal from "../modal/Modal";
 

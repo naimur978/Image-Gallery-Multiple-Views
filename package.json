@@ -2,6 +2,7 @@
   "name": "image-gallery-with-different-views",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/naimur978/image-gallery-with-different-views/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
